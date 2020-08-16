@@ -1,0 +1,43 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "command-line application to manage a company's employee database using node, inquirer, and MySQL.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "createSchema": "mysql -u root < ./db/schema.sql",
+    "seeds": "mysql -u root < ./db/seeds.sql",
+    "test": "jest --verbose test/*",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anitapeppercorn/Employee-Tracker.git"
+  },
+  "author": "Anita Ganti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anitapeppercorn/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/anitapeppercorn/Employee-Tracker#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "chalk": "^4.0.0",
+    "console-clear": "^1.1.1",
+    "console.table": "^0.10.0",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "keywords": [
+    "inquirer",
+    "node",
+    "jest",
+    "mySQL"
+  ]
+}
