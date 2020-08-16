@@ -19,7 +19,6 @@ we design the database schema as shown in the image below.
 We added additional functionality to your application, to: Update employee managers, View employees by manager, View employees by department, Delete departments, roles, and employees,View the total utilized budget of a department—i.e., the combined salaries of all employees in that department.
 
 ## Demo & Schema
-![Demo GIF of app](/assets/app.gif)
 ![image of schema](/assets/schema.png)
 ![Demo](/assets/demo.gif)
 The video that demonstrates the functionality of the Employee Tracker and shows the technical acceptance criteria being met. It shows how a user would invoke the application from the command line and a functional menu with the options outlined in the acceptance criteria.
@@ -59,6 +58,7 @@ If you make a mistake during the input, you can choose **_Delete Employee, Role 
 - console.clear
 - Chalk
 - Inquirer
+- asciiart-logo
 
 ## License
 [MIT License](./LICENSE)
