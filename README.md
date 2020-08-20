@@ -1,6 +1,9 @@
 # Employee-Tracker
 Command-line application to manage a company's employee database using node, inquirer, and MySQL. This application is deployed to github at: https://github.com/anitapeppercorn/Employee-Tracker
 
+https://youtu.be/KlwsOc-TnfQ
+The entire usage demo is at this youtube linke
+
 ## Contents
 - [Description](#description)
 - [Demo & Schema](#demo&schema)
@@ -21,9 +24,7 @@ We added additional functionality to your application, to: Update employee manag
 ## Demo & Schema
 ![image of schema](/assets/schema.png)
 ![Demo](/assets/demo.gif)
-https://youtu.be/KlwsOc-TnfQ
-
-The youtube link above has the full video that demonstrates the functionality of the Employee Tracker and shows the technical acceptance criteria being met. It shows how a user would invoke the application from the command line and a functional menu with the options outlined in the acceptance criteria.
+The youtube link has the full video that demonstrates the functionality of the Employee Tracker and shows the technical acceptance criteria being met. It shows how a user would invoke the application from the command line and a functional menu with the options outlined in the acceptance criteria.
 
 ## User Story
 AS A business owner
