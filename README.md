@@ -2,7 +2,8 @@
 Command-line application to manage a company's employee database using node, inquirer, and MySQL. This application is deployed to github at: https://github.com/anitapeppercorn/Employee-Tracker
 
 https://youtu.be/KlwsOc-TnfQ
-The entire usage demo is at this youtube linke
+A simple usage demo is at this youtube link
+https://youtu.be/W6OUaAx77Yc further use cases are shown in this video
 
 ## Contents
 - [Description](#description)
